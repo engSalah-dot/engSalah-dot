@@ -52,8 +52,10 @@ I'm an aspiring Machine Learning Engineer with a background in Communication and
   Created a binary classifier with interactive data visualization.  
   Tools: Scikit-Learn, Matplotlib
 
-- 🔹**Fashion Mnist Classifier**  
-A beginner-friendly deep learning project to classify clothing images using neural networks.
+- 🔹**Fashion MNIST Classifier using CNNs**  
+Developed a CNN model with TensorFlow to classify Fashion MNIST clothing images into 10 categories.
+
+
 
 - 🔹**Heart Disease Prediction using Machine Learning**  
 Working on Heart Disease data and make prediction .
