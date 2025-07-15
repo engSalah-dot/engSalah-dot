@@ -52,8 +52,13 @@ I'm an aspiring Machine Learning Engineer with a background in Communication and
   Created a binary classifier with interactive data visualization.  
   Tools: Scikit-Learn, Matplotlib
 
-- 🔹 **Digital Communication Coding (MATLAB)**  
-  Simulated encoding techniques like Manchester & Bipolar and analyzed bit error rates.
+- 🔹**Fashion Mnist Classifier**  
+A beginner-friendly deep learning project to classify clothing images using neural networks.
+
+- 🔹**Heart Disease Prediction using Machine Learning**  
+Working on Heart Disease data and make prediction .
+
+  
 
 ---
 
