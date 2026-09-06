@@ -1,90 +1,77 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR3Yml1Ymp4YjZiN2lhb2J1dWc5ZWg0dDl5a2Y3NGJtNDdmdHo4MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="30%">
-
-
-<h1>
-  Hi There, I'm Salah Ebied
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<p>
-I'm an aspiring Machine Learning Engineer with a background in Communication and Electronics Engineering. Passionate about building real-world ML solutions and working with data-driven technologies.
-</p>
-
-- 👨‍💻 Currently working on ML projects using Python, Scikit-Learn, and TensorFlow.
-- 📚 Learning advanced AI topics and computer vision techniques.
-- 🎯 Future Goals: Master Deep Learning and contribute to impactful AI solutions.
-
-- 📫 Social links
-<p>
-<a href="https://www.facebook.com/Salah.ebeid.79/"><img
-    src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/salah-ebied-3138241b1/"><img
-    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.youtube.com/@salah-d8t"><img
-    src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
-</p>
-
-### 🧠 &nbsp;Technical Skills
+# Hi, I'm Salah Ebied 👋
+ 
+**AI/ML Engineering student** at Helwan University, building deep learning and LLM-powered systems — now exploring the intersection of **AI and Digital IC Verification**.
+ 
+- 🎯 Currently working on my graduation project: applying AI to hardware verification
+- 🏆 1st Place Winner — Instant x Orange Digital Center Hackathon (Team Lead)
+- 🌱 Deepening my skills in SystemVerilog, UVM, and verification methodologies
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/salah-ebied-3138241b1/) · [YouTube](https://www.youtube.com/@salah-d8t)
+---
+ 
+## 🧠 Technical Skills
+ 
+**AI / ML**
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000000?style=flat&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=flat&logo=scikit-learn)
+ 
+**NLP / LLMs**
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
+![Transformers](https://img.shields.io/badge/-Transformers-000000?style=flat)
+ 
+**Hardware / Verification**
+![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-000000?style=flat)
+ 
+**Tools**
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+ 
 ---
-
-### 📌 Projects
-
-- 🔹 **Predicting Water Temperature from Salinity**  
-  Built and deployed a regression model using Scikit-Learn and Seaborn.  
-  Tools: Python, Pandas, Scikit-Learn
-
-- 🔹 **Face Recognition System with SQL Database**  
-  Developed a real-time face recognition pipeline integrated with SQL for user management.  
-  Tools: Python, OpenCV, SQL
-
-- 🔹 **Binary Classification with Logistic Regression**  
-  Created a binary classifier with interactive data visualization.  
-  Tools: Scikit-Learn, Matplotlib
-
-- 🔹**Fashion MNIST Classifier using CNNs**  
-Developed a CNN model with TensorFlow to classify Fashion MNIST clothing images into 10 categories.
-
-
-
-- 🔹**Heart Disease Prediction using Machine Learning**  
-Working on Heart Disease data and make prediction .
-
-  
-
+ 
+## 📌 Featured Projects
+ 
+### 🏆 [Hakeem AI — Grounded Drug-Drug Interaction Assistant](https://github.com/engSalah-dot/Hakeem-AI-DDI-Assistant)
+A safety-first medical assistant using hybrid RAG (dense + lexical + cross-encoder reranking) with hard grounding gates against hallucination.
+**1st Place**, Instant x Orange Digital Center Hackathon — built as Team Lead.
+`RAG` `ChromaDB` `FastAPI` `Next.js` `JWT/Argon2` `PostgreSQL/pgvector`
+ 
+### 🎓 [Gemini EduRAG](https://github.com/engSalah-dot/EduChat)
+Multimodal educational assistant that answers questions from PDFs and YouTube videos, with an audio podcast generation feature.
+Built during NTI's NLP training track as AI/Technical lead.
+`RAG` `Gemini` `Groq` `ChromaDB` `Text-to-Speech`
+ 
+### 🗣️ [Arabic Aspect-Based Sentiment Analysis](https://github.com/engSalah-dot/Aspect-Based-Sentiment-Analysis-ABSA-)
+Two-stage NLP pipeline (MARBERTv2) detecting aspects and sentiment in informal Arabic customer reviews.
+Micro F1 ~0.85 (aspect detection) · ~90% accuracy (sentiment classification). Built for DeepX Hackathon.
+`NLP` `Transformers` `MARBERTv2` `Arabic NLP`
+ 
+### 🔧 [Transformer-Based LLM (From Scratch)](https://github.com/engSalah-dot/Machine-Learning-from-scratch-to-advanced)
+Full Transformer architecture implemented from scratch in PyTorch — attention mechanisms, positional encoding, and training loops.
+`PyTorch` `Transformers` `LLM`
+ 
 ---
-
-### 🎓 Education
-**Helwan University – B.Sc. in Communication and Electronics Engineering**  
-*Sep 2022 – Jun 2027*  
-GPA: 3.5 / 4.0  
-Relevant Courses: Machine Learning, Data Science, Computer Vision, Algorithms
-
+ 
+## 🎓 Education
+ 
+**Helwan University** — B.Sc. in Electronics & Communications Engineering
+*Sep 2022 – Jun 2027* · GPA: 3.2 / 4.0
+Relevant coursework: Machine Learning, Data Science, Computer Vision, Digital IC Design, Algorithms
+ 
 ---
-
-### 🏆 Certifications
-
-- Supervised Machine Learning – DeepLearning.AI (Coursera)
-- Intro to TensorFlow – Udacity  
-- Embedded Systems Fundamentals – Pixels  
-- Python Basics – MaharaTech  
-- Problem Solving – HackerRank  
-- AI & ML Track – Sprints
-
+ 
+## 🏆 Certifications
+ 
+- Generative AI with Large Language Models — DeepLearning.AI
+- Building LLM Apps — NVIDIA
+- AI for All — NVIDIA
+- Supervised Machine Learning: Regression and Classification — DeepLearning.AI, Stanford
+- Unsupervised Machine Learning — DeepLearning.AI
+- Machine Learning & AI Track — Sprints
+- Intro to TensorFlow — Udacity
+- Problem Solving — HackerRank
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engSalah-dot&layout=compact&langs_count=10&theme=default)
-
-<a href="https://komarev.com/ghpvc/?username=engSalah-dot&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=engSalah-dot&style=for-the-badge">
-</a>
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=engSalah-dot&layout=compact&langs_count=10&theme=default)
+ 
