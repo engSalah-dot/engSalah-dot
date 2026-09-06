@@ -37,7 +37,7 @@ A safety-first medical assistant using hybrid RAG (dense + lexical + cross-encod
 **1st Place**, Instant x Orange Digital Center Hackathon — built as Team Lead.
 `RAG` `ChromaDB` `FastAPI` `Next.js` `JWT/Argon2` `PostgreSQL/pgvector`
  
-### 🎓 [Gemini EduRAG](https://github.com/engSalah-dot/EduChat)
+### 🎓 [EduRAG](https://github.com/engSalah-dot/EduChat)
 Multimodal educational assistant that answers questions from PDFs and YouTube videos, with an audio podcast generation feature.
 Built during NTI's NLP training track as AI/Technical lead.
 `RAG` `Gemini` `Groq` `ChromaDB` `Text-to-Speech`
