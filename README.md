@@ -1,4 +1,4 @@
-# Hi, I'm Salah Ebied 👋
+ Hi, I'm Salah Ebied 👋
  
 **AI/ML Engineering student** at Helwan University, building deep learning and LLM-powered systems — now exploring the intersection of **AI and Digital IC Verification**.
  
@@ -10,46 +10,57 @@
  
 ## 🧠 Technical Skills
  
-**AI / ML**
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=flat&logo=scikit-learn)
- 
-**NLP / LLMs**
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
-![Transformers](https://img.shields.io/badge/-Transformers-000000?style=flat)
- 
-**Hardware / Verification**
-![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat)
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-000000?style=flat)
- 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+**AI / ML:** Python · PyTorch · TensorFlow · Scikit-Learn
+**NLP / LLMs:** LangChain · Transformers · RAG · Prompt Engineering
+**Hardware / Verification:** Verilog · SystemVerilog · UVM
+**Tools:** Git · SQL
  
 ---
  
 ## 📌 Featured Projects
  
 ### 🏆 [Hakeem AI — Grounded Drug-Drug Interaction Assistant](https://github.com/engSalah-dot/Hakeem-AI-DDI-Assistant)
-A safety-first medical assistant using hybrid RAG (dense + lexical + cross-encoder reranking) with hard grounding gates against hallucination.
+A safety-first medical assistant using hybrid RAG (dense + lexical + cross-encoder reranking) with hard grounding gates against hallucination — refuses to answer unless retrieved evidence explicitly supports it.
 **1st Place**, Instant x Orange Digital Center Hackathon — built as Team Lead.
-`RAG` `ChromaDB` `FastAPI` `Next.js` `JWT/Argon2` `PostgreSQL/pgvector`
+- Full-stack architecture: Next.js frontend, FastAPI backend
+- JWT authentication with Argon2 password hashing
+- Fernet-encrypted user health profiles
+- Production deployment on Vercel with PostgreSQL + pgvector
+- Automated test suite covering safety routing and grounding
+`RAG` `ChromaDB` `FastAPI` `Next.js` `JWT/Argon2` `PostgreSQL/pgvector` `System Design`
  
-### 🎓 [EduRAG](https://github.com/engSalah-dot/EduChat)
-Multimodal educational assistant that answers questions from PDFs and YouTube videos, with an audio podcast generation feature.
-Built during NTI's NLP training track as AI/Technical lead.
-`RAG` `Gemini` `Groq` `ChromaDB` `Text-to-Speech`
+### 🎓 [Gemini EduRAG](https://github.com/engSalah-dot/EduChat)
+Multimodal educational assistant that answers grounded questions from user-uploaded PDFs and YouTube videos.
+Built during NTI's NLP training track as AI/Technical lead for a 5-person team.
+- Content ingestion pipeline for both PDFs and video transcripts
+- Gemini as primary LLM with Groq as fallback generator
+- Educational Podcast feature — converts learning material into audio via Gemini TTS
+`RAG` `Gemini` `Groq` `ChromaDB` `Text-to-Speech` `NLP`
  
 ### 🗣️ [Arabic Aspect-Based Sentiment Analysis](https://github.com/engSalah-dot/Aspect-Based-Sentiment-Analysis-ABSA-)
-Two-stage NLP pipeline (MARBERTv2) detecting aspects and sentiment in informal Arabic customer reviews.
-Micro F1 ~0.85 (aspect detection) · ~90% accuracy (sentiment classification). Built for DeepX Hackathon.
-`NLP` `Transformers` `MARBERTv2` `Arabic NLP`
+Two-stage NLP pipeline (MARBERTv2) detecting aspects and sentiment in informal, mixed-language Arabic customer reviews. Built for DeepX Hackathon.
+- Multi-label aspect detection + aspect-level sentiment classification
+- **Micro F1 ~0.85** (aspect detection), **~90% accuracy** (sentiment classification)
+- Interactive Streamlit demo
+`NLP` `Transformers` `MARBERTv2` `Arabic NLP` `Streamlit`
  
-### 🔧 [Transformer-Based LLM (From Scratch)](https://github.com/engSalah-dot/Machine-Learning-from-scratch-to-advanced)
-Full Transformer architecture implemented from scratch in PyTorch — attention mechanisms, positional encoding, and training loops.
+### 🩺 [Chest X-Ray Pneumonia Classification](https://github.com/engSalah-dot/Deep-Learning-Projects)
+CNN-based binary classifier detecting pneumonia from chest X-ray images, with Grad-CAM for model interpretability.
+- Data preprocessing & augmentation pipeline
+- Grad-CAM visualizations to explain model predictions
+- 94% accuracy on the test set
+`Deep Learning` `TensorFlow` `CNN` `Computer Vision` `Explainable AI`
+ 
+### 🔧 [Transformer-Based LLM (From Scratch)](https://github.com/engSalah-dot/Transformer-LLM-From-Scratch)
+Full Transformer architecture implemented from scratch in PyTorch — multi-head attention, positional encoding, and training loops — to understand what powers modern LLMs at the lowest level.
+ 
 `PyTorch` `Transformers` `LLM`
+ 
+---
+ 
+## 📚 Additional Practice Projects
+ 
+Earlier fundamentals-building exercises (classical ML, basic CNNs, and Python practice) are collected in my [**ML Learning Journey**](https://github.com/engSalah-dot/ML-Learning-Journey) repo.
  
 ---
  
@@ -71,7 +82,9 @@ Relevant coursework: Machine Learning, Data Science, Computer Vision, Digital IC
 - Machine Learning & AI Track — Sprints
 - Intro to TensorFlow — Udacity
 - Problem Solving — HackerRank
----
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=engSalah-dot&layout=compact&langs_count=10&theme=default)
- 
+
+
+
+
+
