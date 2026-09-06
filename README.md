@@ -1,4 +1,4 @@
-![Banner](./github_readme_banner.png)
+![Banner](./github_readme_banner(1).png)
 
 # Hi, I'm Salah Ebied 👋
 
